@@ -14,13 +14,13 @@ see the full dashboard here -[mydashboard](https://app.powerbi.com/groups/me/rep
 ![Screenshot 2024-12-09 201152](https://github.com/user-attachments/assets/270259db-151d-44ee-b376-2795ea8867ab)
 
 ## Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/chocolate-sales-dashboard.git
-Open the Power BI dashboard file (.pbix) in Power BI Desktop to explore or customize the visuals.
+- Clone the repository:
+- bash
+- Copy code
+- git clone https://github.com/your-username/chocolate-sales-dashboard.git
+- Open the Power BI dashboard file (.pbix) in Power BI Desktop to explore or customize the visuals.
 
 ## Technologies Used
-Power BI: For creating and visualizing the dashboard.
-Data Analysis: Leveraging DAX formulas and visualizations for insights.
+- Power BI: For creating and visualizing the dashboard.
+- Data Analysis: Leveraging DAX formulas and visualizations for insights.
 
